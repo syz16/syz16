@@ -1,5 +1,6 @@
 ### Hi! 👋
 I'm a high schooler who likes coding, especially web development. I primarily use HTML, CSS, and JavaScript though I also have some knowledge in Python and Java. 
+
 [![Sophia's GitHub stats](https://github-readme-stats.vercel.app/api?username=syz16&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
