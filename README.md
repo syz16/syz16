@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=syz16&repo=github-readme-stats)](https://github.com/syz16/github-readme-stats)
+[![Sophia's GitHub stats](https://github-readme-stats.vercel.app/api?username=syz16)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **syz16/syz16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
