@@ -1,7 +1,7 @@
 ### Hi! 👋
 I'm a high schooler who likes coding, especially web development. I primarily use HTML, CSS, and JavaScript though I also have some knowledge in Python and Java. 
 
-[![Sophia's GitHub stats](https://github-readme-stats.vercel.app/api?username=syz16&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Sophia's GitHub stats](https://github-readme-stats.vercel.app/api?username=syz16&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **syz16/syz16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
