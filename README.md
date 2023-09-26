@@ -1,5 +1,5 @@
 ### Hi! 👋
-I'm an incoming CS student at UCSD. I enjoy learning about a wide variety of subjects. That’s why I love computer science — it’s cool in itself, and also blazes new trails in every other field. 
+I'm a first-year computer science student at UCSD. I enjoy learning about a wide variety of subjects. That’s why I love programming — it’s cool in itself, and also blazes new trails in every other field. 
 
 Here are a few things I’ve used programming for:
 * A digital scale for a Science Olympiad competition 🧪
