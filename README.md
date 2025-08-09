@@ -1,5 +1,5 @@
 ### Hi! 👋
-I'm a second-year computer science student at UCSD. I enjoy learning about a wide variety of subjects, and currently my biggest interests are data science, machine learning, and web development. Feel free to check out my profile and reach out!
+I'm a third-year CS/bioinformatics and applied math student at UCSD. I enjoy learning about a wide variety of subjects, and currently I'm interested in data science and machine learning. Feel free to check out my profile and reach out!
 
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
